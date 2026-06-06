@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.local
+key.properties
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart.bak
+**/firebase_options.dart
+
+# Generated and local build output
+.appdata/
+.flutter_tmp/
+.gitconfig_codex
+**/.dart_tool/
+**/build/
+**/*.log
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/android/local.properties
+supabase/.temp/
